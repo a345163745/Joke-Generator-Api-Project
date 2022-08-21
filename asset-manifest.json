@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Joke-Generator-Api-Project/static/css/main.ae820b87.css",
+    "main.js": "/Joke-Generator-Api-Project/static/js/main.53b23962.js",
+    "index.html": "/Joke-Generator-Api-Project/index.html",
+    "main.ae820b87.css.map": "/Joke-Generator-Api-Project/static/css/main.ae820b87.css.map",
+    "main.53b23962.js.map": "/Joke-Generator-Api-Project/static/js/main.53b23962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae820b87.css",
+    "static/js/main.53b23962.js"
+  ]
+}
